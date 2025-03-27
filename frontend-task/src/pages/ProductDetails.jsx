@@ -5,7 +5,7 @@ import image3 from "../assets/perf3.jpeg"
 
 
 const products = {
-  1: { name: "Product 1", price: "$40", description: "High-quality product.", image: image1 },
+  1: { name: "Product 1", price: "$40", description: "High-quality product.", image: image1  },
   2: { name: "Product 2", price: "$40", description: "Premium and durable.", image: image2 },
   3: { name: "Product 3", price: "$50", description: "Best-selling item.", image: image3 }
 };
